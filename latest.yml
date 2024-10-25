@@ -1,0 +1,8 @@
+version: 1.2.1
+files:
+  - url: ozon-autobuyer-1.2.1-setup.exe
+    sha512: Tksmpwmvfa35sUj+6jbLQJuNbgzKd+7h7L4l08EES13eg49L8iPgkXLFZEo8F0DfMhNt74N9AZnadSbeYERkNA==
+    size: 87874099
+path: ozon-autobuyer-1.2.1-setup.exe
+sha512: Tksmpwmvfa35sUj+6jbLQJuNbgzKd+7h7L4l08EES13eg49L8iPgkXLFZEo8F0DfMhNt74N9AZnadSbeYERkNA==
+releaseDate: '2024-10-25T16:25:20.175Z'
